@@ -2,6 +2,7 @@ End Points Music:
 
 Bluetooth Audio Data = {End_Point_Name}
 GPIO for AUX/Headphone Jack = {End_Point_Name}
+Music Information = {add more here, and more, and more}
 
 End Points Car Telemetry:
 
@@ -10,5 +11,6 @@ Car Battery Current = {End_Point_Name}
 
 End Points GPS
 {esptime, date_ddmmyy, time_hhmmsscs, latitude, longitude, speed}
+
 
 
